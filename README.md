@@ -1,6 +1,6 @@
 # Desafio feito pelo [**Felipe**](https://github.com/felipeAguiarCode) da **DIO**
 
-Este desafio tem como Objetivo Classificar o nível de Heróis.
+Este desafio tem como Objetivo Classificar o nível de Heróis de acordo com a lista.
 
 # 📔 Lista de base para decidir os níveis
 
