@@ -25,7 +25,6 @@ else{
   switch(true){
     case ((xp > 1000) && (xp < 2001)):
       rankingHero = 'Bronze'
-      console.log(xp)
     break
     case ((xp > 2000) && (xp < 5001)):
       rankingHero = 'Prata'
